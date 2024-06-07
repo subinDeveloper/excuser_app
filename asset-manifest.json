@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excuser_app/static/css/main.eb7b84bc.css",
+    "main.js": "/excuser_app/static/js/main.252bcbd7.js",
+    "index.html": "/excuser_app/index.html",
+    "main.eb7b84bc.css.map": "/excuser_app/static/css/main.eb7b84bc.css.map",
+    "main.252bcbd7.js.map": "/excuser_app/static/js/main.252bcbd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb7b84bc.css",
+    "static/js/main.252bcbd7.js"
+  ]
+}
